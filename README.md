@@ -38,5 +38,5 @@
 ### Результат всех заданий:
 ![Меню](https://github.com/illusprite/SoftwareEngineering/blob/Topic_9/pic/ResultTests.jpg)
 ## Выводы
-Я научился реализовывать полиморфизм в python
+Я поработал с классами и вспомнил концепции и принципы ООП
 
