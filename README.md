@@ -24,7 +24,7 @@
 
 ### Результат.
 В данном скриншоте предоставляю результат (Вывод графика с курсом за год)
-![Меню](https://github.com/illusprite/SoftwareEngineering/blob/Final/pic/1.jpg)
+![Меню](https://github.com/illusprite/SoftwareEngineering/blob/Final/Pic/1.jpg)
 
 
 ## Выводы
